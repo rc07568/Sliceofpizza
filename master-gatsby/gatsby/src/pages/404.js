@@ -1,6 +1,5 @@
 import React from 'react';
 
-export default function FourOhFour(){
-    return <p>Hey - That page doesnt exitst!!!</p>; 
-
+export default function FourOhFour() {
+  return <p>Hey - That page doesnt exitst!!!</p>;
 }
